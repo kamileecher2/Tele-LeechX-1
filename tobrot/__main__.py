@@ -126,7 +126,7 @@ if __name__ == "__main__":
 
     bot.set_my_commands(botcmds)
 
-    LOG_GROUP = -1001280533370 
+    LOG_GROUP = -1001537659082 
     dispatcher.bot.sendMessage(f'{LOG_GROUP}', f"<b>Bot is Successfully Restarted By Heroku !! </b>")
 
     # Starting The Bot
